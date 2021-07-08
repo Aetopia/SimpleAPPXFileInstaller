@@ -11,5 +11,5 @@ This script or application allows you to select any .appx file of your choice vi
 3. Click on the "Select" button and select an .appx file.
 4. Once you have selected an .appx file, click on the "Install" button to install the app. 
  
-You can also enable "Verbose Mode" if the selected .appx file doesn't install. This is will open up a CMD window that will show you whats happening when you are install the .appx file of your choice.
+You can also enable "Verbose Mode" if the selected .appx file doesn't install. This is will open up a CMD window that will show you what's happening when you are installing the .appx file of your choice.
 
